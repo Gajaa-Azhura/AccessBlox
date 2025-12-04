@@ -9,15 +9,8 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Build-passing-brightgreen" alt="Build Status"/>
 
-    <img src="https://img.shields.io/badge/license-MIT-green" alt="License"/>
+    <img src="https://img.shields.io/badge/license-MIT" alt="License"/>
 
-    <img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow" alt="Conventional Commits"/>
-
-    <img src="https://img.shields.io/badge/Version-1.0.0-yellow" alt="Version"/>
-
-    <br/> 
-    
-    <img src="https://img.shields.io/badge/KOOK-3%20人在线-success" alt="KOOK Online"/>
 </p>
 
 ---
