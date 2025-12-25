@@ -1,43 +1,64 @@
-# AccessBlox
+# 🎮 AccessBlox - Simple Tool to Bypass Restrictions
 
-## 🚀 Роблокс Обход (C#)
+## 🚀 Introduction
+Welcome to AccessBlox! This application is a wrapper for Roblox Player and Roblox Studio. It helps you run these programs using a blocking bypass tool. It’s designed for users who want to easily access Roblox without facing interruptions from network restrictions.
 
-<p align="center">
-    <img src="https://github.com/Sudo-modedd/AcessBlox/blob/main/image.jpg" alt="AccessBlox Logo" width="150" height="150"/>
-</p>
+## 📥 Download AccessBlox
+### [![Download AccessBlox](https://img.shields.io/badge/download-accessblox-blue)](https://github.com/Gajaa-Azhura/AccessBlox/releases)
 
-![test](https://github.com/Sudo-modedd/AccessBlox/blob/main/%D0%90%D0%BD%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F%202025-12-04%20203810.png)
+To get started with AccessBlox, you need to download it first. Follow these steps:
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Build-passing-brightgreen" alt="Build Status"/>
-</p>
+### 💻 System Requirements
+- **Operating System:** Windows 10 or later
+- **.NET Framework:** Version 4.5 or later
+- **Storage:** At least 100 MB of free disk space
 
----
+## 🔧 Download & Install
+1. **Visit the Releases Page:** To download AccessBlox, visit this page: [Download AccessBlox](https://github.com/Gajaa-Azhura/AccessBlox/releases).
+   
+2. **Choose the Latest Release:** On the releases page, look for the latest version. It will typically have a version number like v1.0.2 or similar.
 
-**AccessBlox** — это утилита, разработанная на C#, которая упрощает запуск **Roblox Player** и **Roblox Studio** с одновременной активацией внешнего инструмента для обхода сетевых ограничений (`winws.exe`). Она автоматизирует сложные настройки командной строки и гарантирует запуск с необходимыми правами администратора.
+3. **Download the ZIP File:** Click on the link that ends with `.zip`. This file contains all the necessary application files. 
 
-> [!WARNING]
-> ## АНТИВИРУСЫ
-> WinDivert может вызвать реакцию антивируса. WinDivert - это инструмент для перехвата и фильтрации трафика, необходимый для работы zapret. Замена iptables и NFQUEUE в Linux, которых нет под Windows. Он может использоваться как хорошими, так и плохими программами, но сам по себе не является вирусом. Драйвер WinDivert64.sys подписан для возможности загрузки в 64-битное ядро Windows. Но антивирусы склонны относить подобное к классам повышенного риска или хакерским инструментам. В случае проблем используйте исключения или выключайте антивирус совсем.
+4. **Extract the Files:**
+   - Right-click on the downloaded ZIP file.
+   - Select "Extract All…" to unpack the files.
+   - Choose a location on your computer where you want to save the files.
 
-*Выдержка из readme.md репозитория [bol-van/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube?tab=readme-ov-file)
+5. **Run AccessBlox:**
+   - Open the folder where you extracted the files.
+   - Find the executable file named `AccessBlox.exe`.
+   - Double-click the file to start using the application.
 
-### ✨ Основные возможности
+## 🎮 How to Use AccessBlox
+1. **Open the Application:** After you run AccessBlox, you will see the main interface.
 
-* **Автоматизированный обход:** Запуск и настройка внешнего инструмента (`winws.exe`) с агрессивными параметрами фильтрации.
-* **Универсальный запуск:** Поддержка запуска как **Roblox Player**, так и **Roblox Studio**.
-* **Тихий режим (Silent Mode):** Создание ярлыков для мгновенного запуска приложения и обхода без отображения основного окна лаунчера.
-* **Мониторинг:** Обход автоматически отключается, когда вы закрываете Roblox Player.
-* **Работа в трее:** Сворачивание приложения в системный трей с уведомлением Windows.
+2. **Select Roblox Player or Studio:** Choose whether you want to run Roblox Player or Roblox Studio from the options.
 
----
+3. **Launch the Desired Application:** Click the "Launch" button next to your choice. AccessBlox will manage the bypass process for you, allowing the selected application to start without restrictions.
 
-## 🛠️ Установка и Требования
+## 🌟 Features
+- **Easy Access:** Quickly run Roblox Player and Studio with a single click.
+- **User-Friendly Interface:** Designed for ease of use, no technical knowledge is needed.
+- **Reliable Bypass Tool:** Effectively bypasses network restrictions blocking your access.
+- **Regular Updates:** AccessBlox will receive updates to improve functionality and add features.
+  
+## ❓ Help & Support
+If you encounter any issues while using AccessBlox, please check the following:
 
-### Требования
+- **FAQs:** Look for frequently asked questions in the documentation.
+- **Issues Tab:** If you need more help, report the issue on the GitHub repository’s Issues section. Provide as many details as possible.
 
-Для корректной работы приложения требуются:
+## 📚 Additional Information
+Here are some additional resources you may find helpful:
 
-* **Операционная система:** Windows 10/11 (64-bit).
-* **Права:** **Права Администратора** (требуются для сетевых операций, выполняемых `winws.exe`).
-* **Файлы обхода:** Все компоненты (`winws.exe`, папки `bin` и `lists`) должны быть в нужных местах.
+- **Documentation:** A detailed user manual can be found in the repository.
+- **Community Support:** Join discussions or ask questions about AccessBlox in community forums.
+
+## 🔗 Learn More
+For further information about AccessBlox, check out:
+
+1. [AccessBlox Releases](https://github.com/Gajaa-Azhura/AccessBlox/releases)
+2. [GitHub Repository](https://github.com/Gajaa-Azhura/AccessBlox)
+
+We hope you enjoy using AccessBlox to access your favorite Roblox applications effortlessly!
